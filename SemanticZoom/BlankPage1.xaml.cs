@@ -14,8 +14,6 @@ namespace SemanticZoom
         public BlankPage1()
         {
             this.InitializeComponent();
-            Debug.WriteLine("Started SemanticZoomDemo");
-
         }
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
